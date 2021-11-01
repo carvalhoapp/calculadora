@@ -75,7 +75,7 @@ label {
 .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6 {
     margin-top: 24px
 ;
-    margin-bottom: -50px
+    margin-bottom: 0px
 ;
     font-weight: 600;
     line-height: 0;
@@ -197,7 +197,7 @@ input {
 }
 
 #container #form-calculator .field .btn-clear:hover {
-    background-color: #bb4b00;
+    background-color: #666666;
 }
 
 #container #form-calculator .field .btn-submit {
