@@ -56,5 +56,3 @@
 </body>
 
 <script src="https://rcarvalhocopiadora.github.io/calculadora/scripts.js"></script>
-
-</html>
