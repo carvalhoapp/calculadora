@@ -47,9 +47,7 @@
             <h2 id="valor-final">R$00,00</h2>
         </div>
 
-        <div id="footer">
-            
-        </div>
+       
 
     </main>
 
