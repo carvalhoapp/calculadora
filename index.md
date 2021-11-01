@@ -1,10 +1,9 @@
-<html lang="en">
-
 <head>
 
         <title>RCARVALHO - Calculadora (m²)</title>
 
     <link rel="stylesheet" href="/styles.css">
+        
 </head>
 
 <body>
