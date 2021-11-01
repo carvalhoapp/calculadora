@@ -30,7 +30,7 @@ html {
 
 body {
     font-size: 1.6rem;
-    background-color: var(--main-color);
+    background-color: #1c1c1c;
     width: 100vw;
     height: 100vh;
     display: grid;
