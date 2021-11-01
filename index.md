@@ -48,7 +48,7 @@
         </div>
 
         <div id="footer">
-            <p>Todos os direitos reservados - RCARVALHO &copy; 2017</p>
+            
         </div>
 
     </main>
