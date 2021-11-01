@@ -70,7 +70,7 @@ function CalculoM2(lar, alt, quant, corte, verniz, m2) {
         m2 = m2 + 5;
     }
 
-    const valor = ((((lar * alt) * quant) * 110));
+    const valor = ((((lar * alt) * quant) * m2));
     const valorFinal = valor.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
     return valorFinal;
 }
