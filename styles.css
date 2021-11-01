@@ -193,7 +193,7 @@ input {
 }
 
 #container #form-calculator .field .btn-submit {
-    background-color: var(--main-color);
+    background-color: #e9001e;
     transition: all 0.3s;
 }
 
