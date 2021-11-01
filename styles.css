@@ -56,6 +56,15 @@ label {
 
 /* CORPO */
 
+
+.markdown-body h1 {
+    padding-bottom: 0.3em
+;
+    font-size: 0em;
+    border-bottom: 1px
+ solid #eaecef;
+}
+
 #container {
     display: grid;
     min-width: 350px;
