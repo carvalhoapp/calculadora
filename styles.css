@@ -30,9 +30,9 @@ html {
 
 body {
     font-size: 1.6rem;
-    background-color: #1c1c1c;
+    background-color: #111111;
     width: 100vw;
-    height: 70vh;
+    height: 0vh;
     display: grid;
     justify-content: center;
     align-items: center;
