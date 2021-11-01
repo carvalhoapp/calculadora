@@ -84,7 +84,7 @@ label {
 #container {
     display: grid;
     min-width: 330px;
-    padding: padding: 20px
+    padding: 20px
 ;;
     background-color: var(--white-color);
     justify-content: center;
