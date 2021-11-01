@@ -212,11 +212,12 @@ input {
 #container #resultado {
     display: none;
     margin: 0 auto;
-    padding: 10px;
+    padding: 50px;
     width: 100%;
-    border: 1px solid var(--default-color);
+    border: 0px solid var(--default-color);
     border-radius: 10px;
     transition: all 0.3s;
+    line-height: 0;
 }
 
 #container #resultado p,
