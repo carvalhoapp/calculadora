@@ -32,7 +32,7 @@ body {
     font-size: 1.6rem;
     background-color: #1c1c1c;
     width: 100vw;
-    height: 100vh;
+    height: 108vh;
     display: grid;
     justify-content: center;
     align-items: center;
@@ -65,6 +65,13 @@ label {
  solid #eaecef;
 }
 
+.markdown-body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 0px;
+    line-height: 2;
+    word-wrap: break-word;
+}
+
 .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6 {
     margin-top: 24px
 ;
@@ -76,8 +83,9 @@ label {
 
 #container {
     display: grid;
-    min-width: 350px;
-    padding: 20px;
+    min-width: 330px;
+    padding: padding: 20px
+;;
     background-color: var(--white-color);
     justify-content: center;
     align-items: center;
@@ -95,7 +103,7 @@ label {
 #container #form-calculator {
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding: 1px;
 }
 
 #container #form-calculator #errors {
@@ -133,7 +141,7 @@ label {
 
 #container #form-calculator .field input,
 input {
-    font-size: 14pt;
+    font-size: 12pt;
     font-weight: 500;
     font-family: 'Poppins', sans-serif;
     color: var(--default-color);
