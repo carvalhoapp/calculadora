@@ -2,7 +2,7 @@
 
         <title>RCARVALHO - Calculadora (m²)</title>
 
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="https://rcarvalhocopiadora.github.io/calculadora/styles.css">
         
 </head>
 
@@ -55,6 +55,6 @@
 
 </body>
 
-<script src="/scripts.js"></script>
+<script src="https://rcarvalhocopiadora.github.io/calculadora/scripts.js"></script>
 
 </html>
