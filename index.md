@@ -10,8 +10,8 @@
 
     <main id="container">
 
-        <a href="http://dcolor.net">
-            <i id="logo"></i>
+        <a href="/">
+            <i id="logo"><img src="https://cdn.awsli.com.br/400x300/506/506913/logo/c83bd07171.png" alt="RCARVALHO"></i>
         </a>
 
         <form action="" id="form-calculator">
