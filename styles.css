@@ -171,7 +171,7 @@ input {
 }
 
 #container #form-calculator .field .btn-clear:hover {
-    background-color: #bb4b00;
+    background-color: #202020;
 }
 
 #container #form-calculator .field .btn-submit {
@@ -180,7 +180,7 @@ input {
 }
 
 #container #form-calculator .field .btn-submit:hover {
-    background-color: #6f0094;
+    background-color: #b50000;
 }
 
 #container #resultado {
