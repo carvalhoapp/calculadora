@@ -69,8 +69,8 @@ label {
 #container #logo {
     display: block;
     margin: 0 auto;
-    width: 161px;
-    height: 90px;
+    width: 200px;
+    height: 48px;
     background-image: url("../img/dcolor.png");
 }
 
