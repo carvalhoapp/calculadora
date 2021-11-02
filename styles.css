@@ -3,7 +3,7 @@
 /* Variáveis */
 
 :root {
-    --main-color: #9900cc;
+    --main-color: #1c1c1c;
     --second-color: #FF6600;
     --default-color: #1A2E35;
     --white-color: #FFF;
@@ -63,7 +63,7 @@ label {
     background-color: var(--white-color);
     justify-content: center;
     align-items: center;
-    border-radius: 20px;
+    border-radius: 0px;
 }
 
 #container #logo {
